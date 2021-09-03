@@ -1,2 +1,2 @@
 # inflation
-inflation prediction using SARIMA
+Inflation forecasting using SARIMA
